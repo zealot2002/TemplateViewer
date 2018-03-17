@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.credithc.common" >
+
+    <application
+        android:supportsRtl="true">
+
+        <meta-data
+            android:name="com.credithc.common.utils.GlideConfiguration"
+            android:value="GlideModule" />
+
+    </application>
+
+</manifest>
+
+

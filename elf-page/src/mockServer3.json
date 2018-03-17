@@ -1,0 +1,2455 @@
+{
+  "homePage": {
+    "code":"0000",
+    "data":{
+      "pageData":{
+        "pageType":"sectionListPage",
+        "background":"",
+        "sectionList":[
+          {
+            "background":"",
+            "itemList":[
+              {
+                "widgetList":[
+                  {"image":"","visible":"1","route":[],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=E16A712209944CBB8657C961F79A6C8E","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=2118758AE0DE4BA293D8677B3C6AC13C","visible":"1","route":[],"id":"w2","text":"","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w11","text":"恒昌财富","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=7CA2EAC6346645829632BEBED95B7CD6","visible":"1","route":["openPage","login"],"id":"w12","text":"","textColor":"","url":""}]}],"templateId":"1","marginTop":0},
+          {
+            "background":"",
+            "itemList":[
+              {
+                "widgetList":[{"image":"","visible":"1","route":["openPage","webview","http://www.baidu.com"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=51B5D8AB19394D9CA535B6050AC42046","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w2","text":"平台介绍","textColor":"","url":""}]},
+              {
+                "widgetList":[{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=B8F7BE2156894B6DA843FAD8989022BA","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w2","text":"风险管控","textColor":"","url":""}]},
+              {
+                "widgetList":[{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=7E070AE30E4B4B93A7A19D60082C6EF3","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w2","text":"科技护航","textColor":"","url":""}]}],"templateId":"2",
+            "marginTop":0},
+          {
+            "background":"",
+            "itemList":
+            [
+              {"widgetList":[{"image":"","visible":"1","route":["openPage","projectDetail","DLB1100001"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=0DEA03D143D24BEB8B13AE2075212F74","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w2","text":"新手专享","textColor":"#ff2a2d47","url":""},{"image":"","visible":"1","route":[],"id":"w3","text":"剩余:9547.00元","textColor":"#ff2a2d47","url":""},{"image":"","visible":"1","route":[],"id":"w4","text":"12%","textColor":"#ffc6654d","url":""},{"image":"","visible":"1","route":[],"id":"w5","text":"30天起","textColor":"#ff2a2d47","url":""},{"image":"","visible":"1","route":[],"id":"w6","text":"年均出借回报率约","textColor":"#ff2a2d47","url":""},{"image":"","visible":"1","route":[],"id":"w7","text":"出借期限","textColor":"#ff2a2d47","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=C658CA76F68C4FE0888653412CB3F812","visible":"1","route":[],"id":"w8","text":"","textColor":"","url":""}]},{"widgetList":[{"image":"","visible":"1","route":["openPage","projectDetail","DLB1100001"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=0DEA03D143D24BEB8B13AE2075212F74","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=C0539D8D41BC4231A07EC2E16328F0BF","visible":"1","route":[],"id":"w9","text":"新手专享","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w10","text":"全民综合意外险","textColor":"#ff2a2d47","url":""},{"image":"","visible":"1","route":[],"id":"w11","text":"产品推广文案","textColor":"#ff2a2d47","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=648411222D9041A4B14141BEBEB20F11","visible":"1","route":[],"id":"w8","text":"","textColor":"","url":""}]}],"templateId":"3","marginTop":0},
+          {
+            "background":"","itemList":
+          [
+            {"widgetList":[{"image":"","visible":"1","route":["openPage","webview","http://www.baidu.com"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=0D918DFE4A2D42D280582D6AA64E61D6","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""}]},{"widgetList":[{"image":"","visible":"1","route":["openPage","webview","http://www.baidu.com"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=5C4BFD358F0140BFB1BB2D73D510AE4D","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""}]},{"widgetList":[{"image":"","visible":"1","route":["openPage","webview","http://www.baidu.com"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=9816CF9636E84A7084274EA06B5B0589","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""}]},{"widgetList":[{"image":"","visible":"1","route":["openPage","webview","http://www.baidu.com"],"id":"w0","text":"","textColor":"","url":""},{"image":"http://118.26.169.244/fs-api/downloadFile.hc?fsId=3F7C2EFE3E5F466D9FC24807337D9A64","visible":"1","route":[],"id":"w1","text":"","textColor":"","url":""}]}],"templateId":"4","marginTop":0},
+          {
+            "background":"","itemList":[
+            {"widgetList":[{"image":"","visible":"1","route":[],"id":"w1","text":"热门产品","textColor":"","url":""},{"image":"","visible":"1","route":[],"id":"w2","text":"跑赢通货膨胀 资产稳步升值","textColor":"","url":""},{"image":"","visible":"0","route":["transfFragment"],"id":"w3","text":"查看更多","textColor":"","url":""}]}],"templateId":"5","marginTop":100}
+        ]}},
+    "msg":"成功"
+  },
+  "mainPage": {
+    "code": "0000",
+    "msg": "ok",
+    "respData": {
+      "pageType":"sectionListPage",
+      "background":"http://172.30.14.146/img/bg8.png",
+      "sectionList": [
+        {
+          "templateId": 1,
+          "marginTop":165,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/bg2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/btn2.png",
+                  "route": "hccf://login",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 2,
+          "marginTop":26,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon1.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "平台介绍",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "风险管控",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon3.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "科技护航",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 3,
+          "marginTop":26,
+          "background":"http://172.30.14.146/img/bg3.png",
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "xin新手专享",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "剩余：283,677.23元",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "10.0%",
+                  "textColor": "#FF4081",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "qi期望年均出借回报",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "出借期限",
+                  "textColor": "#333333",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/btn1.png",
+                  "route": "hccf://projectDetail",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w9",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w3",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w4",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w5",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w7",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon5.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon5.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "全民综合意外险",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "产品推广文案产品推广文案",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 4,
+          "marginTop":30,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/banner1.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/banner2.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/banner3.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 5,
+          "marginTop":72,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "热门产品",
+                  "textColor": "#FF4081",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "查看更多",
+                  "textColor": "#b2f081",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "跑赢通货膨胀 资产稳步递增",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 6,
+          "marginTop":50,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon5.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/btn3.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon5.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/btn4.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "+0.5%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon6.png",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "pageList": [
+        {
+          "name": "网贷",
+          "action":"http://172.30.14.146:3000/mainPage"
+        },
+        {
+          "name": "保险",
+          "action":"http://172.30.14.146:3000/projectPage"
+        },
+        {
+          "name": "基金",
+          "action":"http://172.30.14.146:3000/mainPage"
+        }
+      ],
+	  
+	  
+	  "action":""
+    }
+  },
+  "getSectionList": {
+    "code": "0000",
+    "msg": "ok",
+    "respData": {
+      "sectionList": [
+        {
+          "templateId": 1,
+          "marginTop":125,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/bg1.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "恒昌财富",
+                  "textColor": "#26f454",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "登录|注册",
+                  "textColor": "#000000",
+                  "image": "",
+                  "route": "hccf://login",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 2,
+          "marginTop":26,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon1.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "平台介绍",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "风险管控",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon3.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "科技护航",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 3,
+          "marginTop":36,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "新手专享",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "剩余:283,667.32元",
+                  "textColor": "#777777",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "10.0%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "期望年均回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "出借期限",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w9",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w3",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w4",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w5",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w7",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon3.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon5.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "全民综合意外险",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "产品推广文案产品推广文案",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 4,
+          "marginTop":30,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/banner1.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/banner2.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/banner3.png",
+                  "route": "hccf://webview?url=http://www.baidu.com",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 5,
+          "marginTop":72,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "热门产品",
+                  "textColor": "#FF4081",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "跑赢通货膨胀 资产稳步递增",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "查看更多",
+                  "textColor": "#b2f081",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "templateId": 6,
+          "marginTop":50,
+          "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "+0.5%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "projectPage": {
+    "code": "0000",
+    "msg": "ok",
+    "respData": {
+      "pageType":"itemListPage",
+      "background":"http://172.30.14.146/img/bg.png",
+      "templateId": 6,
+      "marginTop":50,
+      "itemList": [
+        {
+          "widgetList": [
+            {
+              "id": "w1",
+              "text": "定利宝DL12",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w2",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/icon5.png",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w3",
+              "text": "8.5",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w4",
+              "text": "%",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w5",
+              "text": "30天起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w6",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/btn3.png",
+              "route": "hccf://projectDetail?id=1000012",
+              "visible": 1
+            },
+            {
+              "id": "w7",
+              "text": "期望年均出借回报率",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w8",
+              "text": "5000元起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w9",
+              "text": "开标时间 11-21 18:00",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w10",
+              "text": "",
+              "textColor": "",
+              "image": "",
+              "route": "",
+              "visible": 0
+            },
+            {
+              "id": "w11",
+              "text": "",
+              "textColor": "",
+              "image": "",
+              "route": "",
+              "visible": 0
+            }
+          ]
+        },
+        {
+          "widgetList": [
+            {
+              "id": "w1",
+              "text": "定利宝DL12",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w2",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/icon5.png",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w3",
+              "text": "8.5",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w4",
+              "text": "%",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w5",
+              "text": "30天起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w6",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/btn4.png",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w7",
+              "text": "期望年均出借回报率",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w8",
+              "text": "5000元起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w9",
+              "text": "开标时间 11-21 18:00",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w10",
+              "text": "+0.5%",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w11",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/icon6.png",
+              "route": "",
+              "visible": 1
+            }
+          ]
+        },
+        {
+          "widgetList": [
+            {
+              "id": "w1",
+              "text": "定利宝DL12",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w2",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/icon5.png",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w3",
+              "text": "8.5",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w4",
+              "text": "%",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w5",
+              "text": "30天起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w6",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/btn3.png",
+              "route": "hccf://projectDetail?id=1000012",
+              "visible": 1
+            },
+            {
+              "id": "w7",
+              "text": "期望年均出借回报率",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w8",
+              "text": "5000元起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w9",
+              "text": "开标时间 11-21 18:00",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w10",
+              "text": "",
+              "textColor": "",
+              "image": "",
+              "route": "",
+              "visible": 0
+            },
+            {
+              "id": "w11",
+              "text": "",
+              "textColor": "",
+              "image": "",
+              "route": "",
+              "visible": 0
+            }
+          ]
+        },
+        {
+          "widgetList": [
+            {
+              "id": "w1",
+              "text": "定利宝DL12",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w2",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/icon5.png",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w3",
+              "text": "8.5",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w4",
+              "text": "%",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w5",
+              "text": "30天起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w6",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/btn4.png",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w7",
+              "text": "期望年均出借回报率",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w8",
+              "text": "5000元起",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w9",
+              "text": "开标时间 11-21 18:00",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w10",
+              "text": "+0.5%",
+              "textColor": "#999999",
+              "image": "",
+              "route": "",
+              "visible": 1
+            },
+            {
+              "id": "w11",
+              "text": "",
+              "textColor": "",
+              "image": "http://172.30.14.146/img/icon6.png",
+              "route": "",
+              "visible": 1
+            }
+          ]
+        }
+      ],
+      "action":"http://172.30.14.146:3000/getItemList"
+    }
+  },
+  "getItemList": {
+    "code": "0000",
+    "msg": "ok",
+    "respData": {
+      "itemList": [
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            },
+            {
+              "widgetList": [
+                {
+                  "id": "w1",
+                  "text": "定利宝DL12",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w2",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w3",
+                  "text": "8.5",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w4",
+                  "text": "%",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w5",
+                  "text": "30天起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w6",
+                  "text": "",
+                  "textColor": "",
+                  "image": "http://172.30.14.146/img/icon2.png",
+                  "route": "hccf://projectDetail?id=1000012",
+                  "visible": 1
+                },
+                {
+                  "id": "w7",
+                  "text": "期望年均出借回报率",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w8",
+                  "text": "5000元起",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w9",
+                  "text": "开标时间 11-21 18:00",
+                  "textColor": "#999999",
+                  "image": "",
+                  "route": "",
+                  "visible": 1
+                },
+                {
+                  "id": "w10",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                },
+                {
+                  "id": "w11",
+                  "text": "",
+                  "textColor": "",
+                  "image": "",
+                  "route": "",
+                  "visible": 0
+                }
+              ]
+            }
+          ]
+    }
+  },
+  "productPage": {
+    "code": "0000",
+    "msg": "ok",
+    "respData": {
+      "pageType":"pageGroup",
+      "navigatorType":"top1",
+      "background":"http://172.30.14.146/img/bg.png",
+      "pageList": [
+        {
+          "name": "网贷",
+          "action":"http://172.30.14.146:3000/mainPage"
+        },
+        {
+          "name": "保险",
+          "action":"http://172.30.14.146:3000/projectPage"
+        },
+        {
+          "name": "基金",
+          "action":"http://172.30.14.146:3000/mainPage"
+        }
+      ]
+    }
+  },
+  "t1":{
+  "templateId": 1,
+  "itemList": [
+    {
+      "widgetList": [
+        {
+          "id": "w1",
+          "text": "",
+          "textColor": "",
+          "image": "http://172.30.14.146/img/bg1.png",
+          "route": "",
+          "visible": 1
+        },
+        {
+          "id": "w2",
+          "text": "",
+          "textColor": "",
+          "image": "http://172.30.14.146/img/icon.png",
+          "route": "",
+          "visible": 1
+        }
+      ]
+    }
+  ]
+},
+  "t2":{
+    "templateId": 2,
+    "itemList": [
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon1.png",
+            "route": "hccf://webview?url=http://www.baidu.com",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "平台介绍",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          }
+        ]
+      },
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "hccf://webview?url=http://www.baidu.com",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "风险管控",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          }
+        ]
+      },
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon3.png",
+            "route": "hccf://webview?url=http://www.baidu.com",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "科技护航",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          }
+        ]
+      }
+    ]
+  },
+  "t3":{
+    "templateId": 3,
+    "itemList": [
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "新手专享",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "剩余:283,667.32元",
+            "textColor": "#777777",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w3",
+            "text": "10.0%",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w4",
+            "text": "30天起",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w5",
+            "text": "期望年均回报率",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w6",
+            "text": "出借期限",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w7",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "hccf://projectDetail?id=1000012",
+            "visible": 1
+          },
+          {
+            "id": "w8",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w9",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w10",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          }
+        ]
+      },
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w2",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w3",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w4",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w5",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w6",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w7",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon3.png",
+            "route": "hccf://projectDetail?id=1000012",
+            "visible": 1
+          },
+          {
+            "id": "w8",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon5.png",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w9",
+            "text": "全民综合意外险",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w10",
+            "text": "产品推广文案产品推广文案",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          }
+        ]
+      }
+    ]
+  },
+  "t4":{
+    "templateId": 4,
+    "itemList": [
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/banner1.png",
+            "route": "hccf://webview?url=http://www.baidu.com",
+            "visible": 1
+          }
+        ]
+      },
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/banner2.png",
+            "route": "hccf://webview?url=http://www.baidu.com",
+            "visible": 1
+          }
+        ]
+      },
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/banner3.png",
+            "route": "hccf://webview?url=http://www.baidu.com",
+            "visible": 1
+          }
+        ]
+      }
+    ]
+  },
+  "t5":{
+    "templateId": 5,
+    "itemList": [
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "热门产品",
+            "textColor": "#FF4081",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "跑赢通货膨胀 资产稳步递增",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w3",
+            "text": "查看更多",
+            "textColor": "#b2f081",
+            "image": "",
+            "route": "",
+            "visible": 1
+          }
+        ]
+      }
+    ]
+  },
+  "t6":{
+    "templateId": 6,
+    "itemList": [
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "定利宝DL12",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w3",
+            "text": "8.5",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w4",
+            "text": "%",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w5",
+            "text": "30天起",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w6",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "hccf://projectDetail?id=1000012",
+            "visible": 1
+          },
+          {
+            "id": "w7",
+            "text": "期望年均出借回报率",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w8",
+            "text": "5000元起",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w9",
+            "text": "开标时间 11-21 18:00",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w10",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          },
+          {
+            "id": "w11",
+            "text": "",
+            "textColor": "",
+            "image": "",
+            "route": "",
+            "visible": 0
+          }
+        ]
+      },
+      {
+        "widgetList": [
+          {
+            "id": "w1",
+            "text": "定利宝DL12",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w2",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w3",
+            "text": "8.5",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w4",
+            "text": "%",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w5",
+            "text": "30天起",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w6",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "hccf://projectDetail?id=1000012",
+            "visible": 1
+          },
+          {
+            "id": "w7",
+            "text": "期望年均出借回报率",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w8",
+            "text": "5000元起",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w9",
+            "text": "开标时间 11-21 18:00",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w10",
+            "text": "+0.5%",
+            "textColor": "#999999",
+            "image": "",
+            "route": "",
+            "visible": 1
+          },
+          {
+            "id": "w11",
+            "text": "",
+            "textColor": "",
+            "image": "http://172.30.14.146/img/icon2.png",
+            "route": "",
+            "visible": 1
+          }
+        ]
+      }
+    ]
+  }
+}
+

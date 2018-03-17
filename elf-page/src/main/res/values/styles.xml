@@ -1,0 +1,150 @@
+<resources>
+
+    <!-- textView -->
+    <style name="elf_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="elf_tv_20" parent="elf_tv"><item name="android:textSize">20px</item></style>
+    <style name="elf_tv_22" parent="elf_tv"><item name="android:textSize">22px</item></style>
+    <style name="elf_tv_24" parent="elf_tv"><item name="android:textSize">24px</item></style>
+    <style name="elf_tv_28" parent="elf_tv"><item name="android:textSize">28px</item></style>
+    <style name="elf_tv_32" parent="elf_tv"><item name="android:textSize">32px</item></style>
+    <style name="elf_tv_36" parent="elf_tv"><item name="android:textSize">36px</item></style>
+    <style name="elf_tv_42" parent="elf_tv"><item name="android:textSize">42px</item></style>
+    <style name="elf_tv_46" parent="elf_tv"><item name="android:textSize">46px</item></style>
+    <style name="elf_tv_48" parent="elf_tv"><item name="android:textSize">48px</item></style>
+    <style name="elf_tv_66" parent="elf_tv"><item name="android:textSize">60px</item></style>
+    <style name="elf_tv_60" parent="elf_tv"><item name="android:textSize">66px</item></style>
+    <style name="elf_tv_72" parent="elf_tv"><item name="android:textSize">72px</item></style>
+
+
+    <!-- imageView -->
+    <style name="elf_iv">
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="elf_iv_28_28" parent="elf_iv">
+        <item name="android:layout_width">28px</item>
+        <item name="android:layout_height">28px</item>
+    </style>
+
+    <style name="elf_iv_36_22" parent="elf_iv">
+        <item name="android:layout_width">36px</item>
+        <item name="android:layout_height">22px</item>
+    </style>
+
+    <style name="elf_iv_60_60" parent="elf_iv">
+        <item name="android:layout_width">60px</item>
+        <item name="android:layout_height">60px</item>
+    </style>
+
+    <style name="elf_iv_88_28" parent="elf_iv">
+        <item name="android:layout_width">88px</item>
+        <item name="android:layout_height">28px</item>
+    </style>
+
+    <style name="elf_iv_90_26" parent="elf_iv">
+        <item name="android:layout_width">90px</item>
+        <item name="android:layout_height">26px</item>
+    </style>
+
+    <style name="elf_iv_120_120" parent="elf_iv">
+        <item name="android:layout_width">120px</item>
+        <item name="android:layout_height">120px</item>
+    </style>
+
+    <style name="elf_iv_124_40" parent="elf_iv">
+        <item name="android:layout_width">124px</item>
+        <item name="android:layout_height">40px</item>
+    </style>
+
+    <style name="elf_iv_140_40" parent="elf_iv">
+        <item name="android:layout_width">140px</item>
+        <item name="android:layout_height">40px</item>
+    </style>
+
+    <style name="elf_iv_160_44" parent="elf_iv">
+        <item name="android:layout_width">160px</item>
+        <item name="android:layout_height">44px</item>
+    </style>
+
+    <style name="elf_iv_166_50" parent="elf_iv">
+        <item name="android:layout_width">166px</item>
+        <item name="android:layout_height">50px</item>
+    </style>
+
+    <style name="elf_iv_180_36" parent="elf_iv">
+        <item name="android:layout_width">180px</item>
+        <item name="android:layout_height">36px</item>
+    </style>
+
+    <style name="elf_iv_200_200" parent="elf_iv">
+        <item name="android:layout_width">200px</item>
+        <item name="android:layout_height">200px</item>
+    </style>
+
+    <style name="elf_iv_300_300" parent="elf_iv">
+        <item name="android:layout_width">300px</item>
+        <item name="android:layout_height">300px</item>
+    </style>
+
+    <style name="elf_iv_360_72" parent="elf_iv">
+        <item name="android:layout_width">360px</item>
+        <item name="android:layout_height">72px</item>
+    </style>
+    <style name="elf_iv_690_278" parent="elf_iv">
+        <item name="android:layout_width">690px</item>
+        <item name="android:layout_height">278px</item>
+    </style>
+
+    <!-- section -->
+    <style name="elf_layout">
+        <!--<item name="android:background">@color/white</item>-->
+    </style>
+
+    <style name="elf_layout_670" parent="elf_layout">
+        <item name="android:layout_width">670px</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="elf_layout_690" parent="elf_layout">
+        <item name="android:layout_width">690px</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="elf_layout_750" parent="elf_layout">
+        <item name="android:layout_width">750px</item>
+    </style>
+
+    <style name="elf_layout_465" parent="elf_layout">
+        <item name="android:layout_width">465px</item>
+    </style>
+
+    <style name="elf_layout_670_70" parent="elf_layout_670"><item name="android:layout_height">70px</item></style>
+    <style name="elf_layout_670_94" parent="elf_layout_670"><item name="android:layout_height">94px</item></style>
+    <style name="elf_layout_670_170" parent="elf_layout_670"><item name="android:layout_height">170px</item></style>
+    <style name="elf_layout_670_200" parent="elf_layout_670"><item name="android:layout_height">200px</item></style>
+    <style name="elf_layout_670_260" parent="elf_layout_670"><item name="android:layout_height">260px</item></style>
+    <style name="elf_layout_670_280" parent="elf_layout_670"><item name="android:layout_height">280px</item></style>
+    <style name="elf_layout_670_380" parent="elf_layout_670"><item name="android:layout_height">380px</item></style>
+    <style name="elf_layout_670_wrap_content" parent="elf_layout_670"><item name="android:layout_height">wrap_content</item></style>
+
+    <style name="elf_layout_690_320" parent="elf_layout_690"><item name="android:layout_height">320px</item></style>
+    <style name="elf_layout_690_420" parent="elf_layout_690"><item name="android:layout_height">420px</item></style>
+    <style name="elf_layout_690_wrap_content" parent="elf_layout_690"><item name="android:layout_height">wrap_content</item></style>
+
+    <style name="elf_layout_750_436" parent="elf_layout_750"><item name="android:layout_height">436px</item></style>
+    <style name="elf_layout_750_328" parent="elf_layout_750"><item name="android:layout_height">328px</item></style>
+    <style name="elf_layout_750_380" parent="elf_layout_750"><item name="android:layout_height">380px</item></style>
+    <style name="elf_layout_750_wrap_content" parent="elf_layout_750"><item name="android:layout_height">wrap_content</item></style>
+    <style name="elf_layout_750_match_parent" parent="elf_layout_750"><item name="android:layout_height">match_parent</item></style>
+
+
+    <style name="elf_layout_465_200" parent="elf_layout_465"><item name="android:layout_height">200px</item></style>
+
+</resources>

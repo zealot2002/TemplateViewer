@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.credithc.webh5" >
+
+    <application
+        android:supportsRtl="true">
+        <activity
+            android:name=".JsWebviewActivity"
+            android:theme="@style/BaseAppTheme"
+            />
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/flDisconnectRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rlDisconnectReload"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:clickable="true"
+        >
+
+        <ImageView
+            android:id="@+id/page_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:scaleType="centerInside"
+            android:src="@mipmap/base_pic_no_network" />
+
+        <TextView
+            android:layout_width="210dp"
+            android:layout_height="38dp"
+            android:layout_below="@id/page_iv"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="无网络连接，点击重试"
+            android:textSize="14dp"
+            />
+
+
+    </RelativeLayout>
+
+</FrameLayout>
+

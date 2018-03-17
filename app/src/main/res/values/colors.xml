@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#FF4081</color>
+    <color name="gray">#e2e2e2</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#666666</color>
+    <color name="green">#b2f081</color>
+
+    <!--分割线-->
+    <color name="colorDivider">#E5E5E5</color>
+    <!--字体颜色-->
+    <color name="colorText">#333333</color>
+    <color name="colorTextSecond">#999999</color>
+    <color name="colorTextThird">#666666</color>
+
+    <color name="home_main_tab_text_color_unselect">#999999</color>
+    <color name="home_main_tab_text_color_select">#0082F6</color>
+
+</resources>

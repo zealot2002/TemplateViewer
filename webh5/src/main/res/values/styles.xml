@@ -1,0 +1,10 @@
+<resources>
+    <style name="webh5_toolBar">
+        <item name="colorControlNormal">#ffffff</item>
+        <item name="android:homeAsUpIndicator">@mipmap/webh5_close</item>
+        <item name="android:titleTextStyle">@style/webh5_titlestyle</item>
+    </style>
+    <style name="webh5_titlestyle">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
